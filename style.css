@@ -1,11 +1,15 @@
 /* Your Styles */
 p{
+    font-family: Helvetica, sans-serif;
     display: inline-block;
-    font-size: 2em;}
+    font-size: 2em;
+}
 
     h1{
+        font-family: Satoshi, sans-serif;
     font-size: 3em;
     }
+
 /* Print Styling */
 @media print {
     
