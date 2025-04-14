@@ -1,5 +1,7 @@
 /* Your Styles */
-
+p{
+    display: inline-block;
+    font-size: 1.5em;}
 
 /* Print Styling */
 @media print {
