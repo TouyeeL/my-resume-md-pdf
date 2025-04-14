@@ -9,6 +9,11 @@ p{
         font-family: Satoshi, sans-serif;
     font-size: 2em;
     }
+h2{
+    font-family: Satoshi, sans-serif;
+    font-size: 1.5em;
+    border-bottom: 1px solid #4f76d9;
+}
 
 /* Print Styling */
 @media print {

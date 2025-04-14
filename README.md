@@ -15,5 +15,5 @@
 
 # Citations
 * npm Module: [Markdown to PDF](https://www.npmjs.com/package/md-to-pdf)
-* Fonts: [Font](#)
+* Fonts: [Font](https://www.fontshare.com/fonts/satoshi)
 * CodePen: [CodePen Pen](#)
