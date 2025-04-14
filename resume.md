@@ -4,7 +4,7 @@ Photographer, Videographer, and Graphic Designer with a BA in Visual Communicati
 <p>Spokane Valley, Washington</p>
 <p>(509) 960-1654</p>
 <p>laujquality@gmail.com</p>
-
+*[GitHub](https:www.github/TouyeeL)
 
 
 
